@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Blog of Nasrudin Bin Salim, Nasrudin Salim
+title: Blog of Nasdin, Nasrudin Salim
 email: Nas@NasrudinSalim.com
 description: Thought blog of Nasrudin Salim, Nasrudin Bin Salim, Nasdin
 baseurl: # the optional subpath of your site, e.g. "/blog"
