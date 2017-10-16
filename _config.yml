@@ -65,6 +65,7 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
+  - [vendor]
 
 # Front Matter Defaults
 defaults:
@@ -75,3 +76,5 @@ defaults:
     values:
       layout: post
       read_time: true
+      
+
