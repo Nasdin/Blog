@@ -7,22 +7,20 @@
 
 # Site Settings
 lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+title: Nasrudin's Personal Blog
+email: nas@nasrudinsalim.com
+description: "My personal blog"
 baseurl: "/jekyll-theme-basically-basic"
-url: "https://mmistakes.github.io"
+url: "http://blog.nasrudinsalim.com/"
 repository: "mmistakes/minimal-mistakes"
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
+  name: Nasrudin Salim
   picture: https://api.adorable.io/avatars/285/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
-logo: /assets/icons/basically-basic-logo-light.svg
-google_analytics: UA-2011187-6
+github_username: Nasdin
+logo: /assets/images/logo.png
+google_analytics: UA-106147156-2
 disqus:
-  shortname: basically-basic-theme
+  shortname: nasrudinsalim
 
 # Conversion
 markdown: kramdown
@@ -48,7 +46,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:

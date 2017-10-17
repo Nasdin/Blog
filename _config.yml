@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Blog of Nasdin, Nasrudin Salim
+title: Nasrudin Salim Blog
 email: Nas@NasrudinSalim.com
-description: Thought blog of Nasrudin Salim, Nasrudin Bin Salim, Nasdin
+description: Thought blog of Nasrudin Salim Suden
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: http://blog.nasrudinsalim.com
 author:
@@ -25,7 +25,10 @@ author:
   picture: "/assets/images/face.jpg"
 twitter_username: SpioNasrudin
 github_username: Nasdin
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+logo: /assets/images/logo.png
+google_analytics: UA-106147156-2
+disqus:
+  shortname: nasrudinsalim
 
 # Build settings
 markdown: kramdown
@@ -76,5 +79,3 @@ defaults:
     values:
       layout: post
       read_time: true
-      
-
