@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Nasrudin Salim Blog
+title: Nasrudin Salim Suden
 email: Nas@NasrudinSalim.com
 description: Thought blog of Nasrudin Salim Suden
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ github_username: Nasdin
 logo: /assets/images/logo.png
 google_analytics: UA-106147156-2
 disqus:
-  shortname: nasrudinsalim
+  shortname: naspersonalblog
 
 # Build settings
 markdown: kramdown
